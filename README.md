@@ -10,6 +10,8 @@ Project for my assignment for Module 5: **Back-end - DNS**
 
 - I used **Google Dig** to get the IP adress for **tskoli.is**:
 
+![Screenshot Google Dig for tskoli.is](https://github.com/tristan-sch/hello-DNS/blob/main/Screenshots/Tskoli.png)
+
 - Then I created using **cPanel** 2 new DNS records : a **CNAME** record and a **A** record, both pointing the tskoli IP adress:
 
 - Finally I verified on **Google Dig** that it worked:
