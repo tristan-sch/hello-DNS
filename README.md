@@ -11,10 +11,10 @@ Project for my assignment for Module 5: **Back-end - DNS**
 - I used **Google Dig** to get the IP adress for **tskoli.is**:
   ![Screenshot Google Dig for tskoli.is](https://github.com/tristan-sch/hello-DNS/blob/main/Screenshots/Tskoli.png)
 
-- Then I created using **cPanel** 2 new DNS records : a **CNAME** record and a **A** record, both pointing the tskoli IP adress:
+- Then, using **cPanel**, I created 2 new DNS records: a **CNAME** record and a **A** record, both pointing to tskoli IP adress:
   ![Screenshot cPanel](https://github.com/tristan-sch/hello-DNS/blob/main/Screenshots/cPanel.png)
 
-- Finally I verified on **Google Dig** that it worked:
+- Finally, I verified on **Google Dig** that it worked:
   ![Screenshot demo.ggcom.fr](https://github.com/tristan-sch/hello-DNS/blob/main/Screenshots/demo.png)
   ![Screenshot demo2.ggcom.f](https://github.com/tristan-sch/hello-DNS/blob/main/Screenshots/demo2.png)
 
